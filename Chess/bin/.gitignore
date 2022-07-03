@@ -1,4 +1,6 @@
-/Field.class
-/Main.class
-/Panel$1.class
-/Panel.class
+/King.class
+/Queen.class
+/Bishop.class
+/Knight.class
+/Rook.class
+/Pawn.class
